@@ -14,5 +14,5 @@ reference of object"""
 
 print(s1.name)
 
-s1.ID = 24
+s1.ID = 25
 print(s1.ID)

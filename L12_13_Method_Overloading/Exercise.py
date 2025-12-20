@@ -12,7 +12,7 @@ class calc:
 
 
 c1 = calc()
-c1.product(4,5)
+c1.product(4)
 c1.product(5,6,7)
 
 """ Method overloading - in same class, method with different parameters
